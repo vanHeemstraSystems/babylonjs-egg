@@ -1,7 +1,7 @@
 babylonjs-egg
 # BabylonJS - Egg
 
-Based on "ABC" at https://www.abc.com/
+Based on "Blender 2.80 Tutorial: How To Convert A Sphere To An Egg Shape." at https://www.youtube.com/watch?v=S07_233XjtQ
 
 ## 100 - Introduction
 
