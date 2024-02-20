@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+babylonjs-egg
+# BabylonJS - Egg
 
 Based on "ABC" at https://www.abc.com/
 
